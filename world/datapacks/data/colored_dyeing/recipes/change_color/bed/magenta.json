@@ -1,0 +1,16 @@
+{
+ "type":"minecraft:crafting_shapeless",
+ "group":"tdp_cd-bed",
+ "ingredients":[
+                {
+                 "tag":"colored_dyeing:bed"
+                },
+                {
+                 "item":"minecraft:magenta_dye"
+                }
+               ],
+ "result":{
+           "item":"minecraft:magenta_bed",
+           "count":1
+          }
+}

@@ -1,0 +1,21 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "group":"tdp_cd-stained_terracotta",
+  "pattern":[
+             "###",
+             "#X#",
+             "###"
+            ],
+  "key":{
+         "#":{
+              "tag":"colored_dyeing:terracotta"
+             },
+         "X":{
+              "item":"minecraft:pink_dye"
+             }
+        },
+  "result":{
+            "item":"minecraft:pink_terracotta",
+            "count":8
+           }
+}

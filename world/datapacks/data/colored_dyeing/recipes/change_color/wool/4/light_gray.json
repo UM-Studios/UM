@@ -1,0 +1,34 @@
+{
+ "type":"minecraft:crafting_shapeless",
+ "group":"tdp_cd-dyed_wool_4",
+ "ingredients":[
+                {
+                 "tag":"colored_dyeing:wool"
+                },
+                {
+                 "item":"minecraft:light_gray_dye"
+                },
+                {
+                 "tag":"colored_dyeing:wool"
+                },
+                {
+                 "item":"minecraft:light_gray_dye"
+                },
+                {
+                 "tag":"colored_dyeing:wool"
+                },
+                {
+                 "item":"minecraft:light_gray_dye"
+                },
+                {
+                 "tag":"colored_dyeing:wool"
+                },
+                {
+                 "item":"minecraft:light_gray_dye"
+                }
+               ],
+ "result":{
+           "item":"minecraft:light_gray_wool",
+           "count":4
+          }
+}

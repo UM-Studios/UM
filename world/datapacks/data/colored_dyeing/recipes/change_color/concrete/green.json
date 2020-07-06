@@ -1,0 +1,21 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "group":"tdp_cd-concrete",
+  "pattern":[
+             "###",
+             "#X#",
+             "###"
+            ],
+  "key":{
+         "#":{
+              "tag":"colored_dyeing:concrete"
+             },
+         "X":{
+              "item":"minecraft:green_dye"
+             }
+        },
+  "result":{
+            "item":"minecraft:green_concrete",
+            "count":8
+           }
+}

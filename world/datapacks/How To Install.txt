@@ -1,0 +1,21 @@
+ 
+ ----- How to install Colored Dyeing -----
+ 
+ - Start by dragging "Colored Dyeing" (or "Colored Dyeing".zip) zip file to the "datapacks" folder of the world you wish to install the datapack in. 
+ 
+ - If you are already on the world that Colored Dyeing is installed in, type "/reload" in chat and have fun!
+  + If not, join the world you've installed Colored Dyeing in and have some fun!
+  
+ Extra notes: 
+ - To make sure your datapack is installed properly, type "/datapack list enabled" in chat and find [file/Colored Dyeing.zip].
+  + If it is there: Congratulations, you've properly installed Colored Dyeing!
+  + If it is not there: Try to install it again, if that still does not work, ask for help at discord.plus/DiamondUniverse
+ 
+ Thanks for choosing to use my datapacks. Now go have some fun!
+ 
+ I've spent a really long time working on each and every datapack to make sure you have the best experience possible in your gameplay.
+ 
+ If you really like what I'm doing here, please consider support my work so I can do more of them, and release content alot more often.
+ 
+ You can support me at patreon.com/thediamondplayables
+ Thank you for reading everything!

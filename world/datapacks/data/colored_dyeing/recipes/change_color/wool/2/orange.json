@@ -1,0 +1,22 @@
+{
+ "type":"minecraft:crafting_shapeless",
+ "group":"tdp_cd-dyed_wool_2",
+ "ingredients":[
+                {
+                 "tag":"colored_dyeing:wool"
+                },
+                {
+                 "item":"minecraft:orange_dye"
+                },
+                {
+                 "tag":"colored_dyeing:wool"
+                },
+                {
+                 "item":"minecraft:orange_dye"
+                }
+               ],
+ "result":{
+           "item":"minecraft:orange_wool",
+           "count":2
+          }
+}

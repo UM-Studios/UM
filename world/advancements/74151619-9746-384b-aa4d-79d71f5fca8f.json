@@ -1,0 +1,187 @@
+{
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "main:main/silence_mobs": {
+    "criteria": {
+      "tick": "2020-04-17 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-06-26 03:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-04-17 21:44:25 +0000"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-04-17 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-04-17 21:11:47 +0000"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-06-30 00:43:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-04-17 21:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-04-17 21:11:47 +0000"
+    },
+    "done": true
+  },
+  "main:main/nether_portal_coords": {
+    "criteria": {
+      "tick": "2020-04-17 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-04-17 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2020-04-20 17:45:55 +0000",
+      "minecraft:jungle_edge": "2020-05-29 05:04:46 +0000",
+      "minecraft:snowy_mountains": "2020-05-20 02:23:03 +0000",
+      "minecraft:forest": "2020-04-17 21:05:12 +0000",
+      "minecraft:mountains": "2020-04-17 21:08:26 +0000",
+      "minecraft:badlands_plateau": "2020-06-01 23:13:36 +0000",
+      "minecraft:taiga": "2020-04-17 21:10:23 +0000",
+      "minecraft:desert_hills": "2020-05-30 01:38:27 +0000",
+      "minecraft:deep_cold_ocean": "2020-05-26 06:20:26 +0000",
+      "minecraft:snowy_tundra": "2020-04-19 19:31:46 +0000",
+      "minecraft:taiga_hills": "2020-05-20 22:56:02 +0000",
+      "minecraft:desert": "2020-04-18 19:55:20 +0000",
+      "minecraft:frozen_river": "2020-06-03 02:41:58 +0000",
+      "minecraft:deep_frozen_ocean": "2020-06-28 04:50:31 +0000",
+      "minecraft:jungle": "2020-04-30 06:35:47 +0000",
+      "minecraft:birch_forest": "2020-05-01 00:56:20 +0000",
+      "minecraft:jungle_hills": "2020-04-29 06:56:33 +0000",
+      "minecraft:warm_ocean": "2020-04-20 18:26:49 +0000",
+      "minecraft:deep_lukewarm_ocean": "2020-05-27 05:23:36 +0000",
+      "minecraft:beach": "2020-04-20 02:19:24 +0000",
+      "minecraft:dark_forest": "2020-04-17 21:08:37 +0000",
+      "minecraft:river": "2020-04-17 21:08:34 +0000",
+      "minecraft:lukewarm_ocean": "2020-04-20 18:26:33 +0000",
+      "minecraft:snowy_taiga": "2020-04-19 23:04:29 +0000",
+      "minecraft:birch_forest_hills": "2020-05-30 00:19:37 +0000",
+      "minecraft:wooded_mountains": "2020-04-20 01:46:49 +0000",
+      "minecraft:wooded_hills": "2020-04-17 21:05:58 +0000",
+      "minecraft:stone_shore": "2020-06-05 19:26:06 +0000",
+      "minecraft:swamp": "2020-04-28 06:50:23 +0000",
+      "minecraft:savanna": "2020-06-28 03:54:39 +0000",
+      "minecraft:plains": "2020-04-17 21:07:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2020-06-26 03:34:49 +0000",
+      "minecraft:nether_wastes": "2020-06-26 03:02:10 +0000",
+      "minecraft:soul_sand_valley": "2020-06-26 03:01:44 +0000",
+      "minecraft:warped_forest": "2020-06-26 03:18:26 +0000",
+      "minecraft:basalt_deltas": "2020-06-26 04:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-05-22 22:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "main:main/anti_enderman": {
+    "criteria": {
+      "tick": "2020-04-17 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "colored_dyeing:grant_recipes": {
+    "criteria": {
+      "grant": "2020-05-19 21:38:22 +0000"
+    },
+    "done": true
+  },
+  "main:main/player_head_drops": {
+    "criteria": {
+      "tick": "2020-04-17 21:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-05-19 21:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2020-06-26 03:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2020-05-20 02:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-05-20 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2567
+}

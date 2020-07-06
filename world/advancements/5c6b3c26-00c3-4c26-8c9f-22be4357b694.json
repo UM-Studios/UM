@@ -1,0 +1,75 @@
+{
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-06-27 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "main:main/anti_enderman": {
+    "criteria": {
+      "tick": "2020-06-26 07:18:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-06-26 07:18:44 +0000"
+    },
+    "done": true
+  },
+  "main:main/silence_mobs": {
+    "criteria": {
+      "tick": "2020-06-26 07:18:44 +0000"
+    },
+    "done": true
+  },
+  "main:main/nether_portal_coords": {
+    "criteria": {
+      "tick": "2020-06-26 07:18:44 +0000"
+    },
+    "done": true
+  },
+  "colored_dyeing:grant_recipes": {
+    "criteria": {
+      "grant": "2020-06-26 07:18:44 +0000"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-06-26 07:18:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-06-26 07:18:44 +0000"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-06-26 07:18:44 +0000"
+    },
+    "done": true
+  },
+  "main:main/player_head_drops": {
+    "criteria": {
+      "tick": "2020-06-26 07:18:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2020-06-26 07:18:45 +0000"
+    },
+    "done": false
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-06-27 02:40:38 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2567
+}
