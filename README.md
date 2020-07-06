@@ -13,7 +13,9 @@ Now, whenever someone makes any changes, like adding files, you can do git pull 
 Now, whenever someone makes any changes, like adding files, you can do git pull in terminal inside of the UM folder and it will pull all the changes made and copy them into your folder. Whenever you want to add files or other changes to the github, make those changes inside of the folder on your computer, then when you're done do 
 
 git add .
+
 git commit -m "[describe whatever changes you made]"
+
 git push
 
 ## No Github
